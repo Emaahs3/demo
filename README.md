@@ -1,2 +1,2 @@
 # Demo
-some description abut github
+some description about github
